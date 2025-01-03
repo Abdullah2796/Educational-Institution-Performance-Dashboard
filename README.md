@@ -66,7 +66,7 @@ This project focuses on creating an interactive dashboard to monitor and analyze
   Allow users to filter data interactively by application status, department, and course type.
 
 ### Screenshot : Overall Educational Institution Performance 
-![Dashboard Screenshot]("C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-01-03 124850.png")
+![Dashboard Screenshot](C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-01-03 124850.png)
 
 ## Project Insights
 - **Student Engagement Optimization**  
